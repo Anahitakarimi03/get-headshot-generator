@@ -175,3 +175,5 @@ registry entry and no background service.
 ---
 
 *get-headshot-generator · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- updated 2026-10-24 -->
