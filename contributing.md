@@ -174,4 +174,4 @@ registry entry and no background service.
 
 ---
 
-*get-headshot-generator · Updated 2026-11-06 · Shared under the MIT License*
+*get-headshot-generator · Updated 2026-11-07 · Shared under the MIT License*
